@@ -1,0 +1,135 @@
+ID del Equipo,Modelo del Equipo,Marca,Familia del Equipo,Ubicación,Flota
+CC101,,,Camión Cablero,Operaciones Mina,Soporte
+CC102,,,Camión Cablero,Operaciones Mina,Soporte
+CD001,988F,CATERPILLAR,Cargador Frontal,Servicios Auxiliares Planta,Cantera
+CD002,988H,CATERPILLAR,Cargador Frontal,Servicios Auxiliares Planta,Cantera
+CD003,988K,CATERPILLAR,Cargador Frontal,Planta Procesos,Cantera
+CD101,L2350,KOMATSU,Cargador Frontal,Operaciones Mina,Carguío
+CD102,L2350,KOMATSU,Cargador Frontal,No pertenece a MCP,Carguío
+CD103,L2350,KOMATSU,Cargador Frontal,Operaciones Mina,Carguío
+CD104,L2350,KOMATSU,Cargador Frontal,Operaciones Mina,Carguío
+CD105,L2350,KOMATSU,Cargador Frontal,Operaciones Mina,Carguío
+CD201,992K,CATERPILLAR,Cargador Frontal,Operaciones Mina,Auxiliar
+CD202,966H,CATERPILLAR,Cargador Frontal,Servicios Auxiliares Planta,Cantera
+CD301,930K,CATERPILLAR,Cargador Frontal,Operaciones Mina,Auxiliar
+CL001,740,CATERPILLAR,Camión Lubricador,Mantenimiento Mina,Auxiliar
+CL002,740B,CATERPILLAR,Camión Lubricador,Mantenimiento Mina,Auxiliar
+CL003,740B,CATERPILLAR,Camión Lubricador,Mantenimiento Mina,Auxiliar
+CM101,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM102,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM103,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM104,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM105,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM106,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM107,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM108,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM109,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM110,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM111,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM112,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM113,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM114,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM115,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM116,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM117,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM118,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM119,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM120,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM121,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM122,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM123,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM124,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM125,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM126,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM127,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM128,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM129,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM130,797F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM201,777F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM202,777F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM204,777F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM205,777F,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM206,777G,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM207,777G,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM401,980E-5,KOMATSU,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM402,980E-5,KOMATSU,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM403,980E-5,KOMATSU,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM404,980E-5,KOMATSU,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM405,980E-5,KOMATSU,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM406,980E-5,KOMATSU,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM407,980E-5,KOMATSU,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM408,980E-5,KOMATSU,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM409,980E-5,KOMATSU,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM410,980E-5,KOMATSU,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM501,798 AC,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM502,798 AC,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM503,798 AC,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM504,798 AC,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM505,798 AC,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM506,798 AC,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM507,798 AC,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CM508,798 AC,CATERPILLAR,Camión Fuera de Carretera,Operaciones Mina,Acarreo
+CMA101,777F,CATERPILLAR,Camión Cisterna,Operaciones Mina,Acarreo
+CMA102,777G,CATERPILLAR,Camión Cisterna,Operaciones Mina,Acarreo
+CMA103,777G,CATERPILLAR,Camión Cisterna,Operaciones Mina,Acarreo
+CMA104,777G,CATERPILLAR,Camión Cisterna,Operaciones Mina,Acarreo
+CS030,,,Camión de Servicio,Operaciones Mina,Soporte
+EX001,336DL,CATERPILLAR,Excavadora,Servicios Auxiliares Planta,Auxiliar
+EX002,374DL,CATERPILLAR,Excavadora,Operaciones Cantera,Cantera
+EX003,336D2L,CATERPILLAR,Excavadora,Operaciones Cantera,Cantera
+EX101,390DL,CATERPILLAR,Excavadora,Operaciones Mina,Auxiliar
+EX102,390DL,CATERPILLAR,Excavadora,Operaciones Mina,Auxiliar
+EX103,390DL,CATERPILLAR,Excavadora,Operaciones Mina,Auxiliar
+LB001,793B,CATERPILLAR,Cama Baja,Operaciones Mina,Acarreo
+LB002,793D,CATERPILLAR,Cama Baja,Operaciones Mina,Acarreo
+MC001,262C,CATERPILLAR,Minicargador,Operaciones Mina,Auxiliar
+MC002,262C,CATERPILLAR,Minicargador,Servicios Auxiliares Planta,Cantera
+MC003,262C,CATERPILLAR,Minicargador,Servicios Auxiliares Planta,Cantera
+ML001,988H,CATERPILLAR,Manipulador de Llantas,Mantenimiento Mina,Auxiliar
+ML002,SMV 32-1200 B,KONECRANES,Manipulador de Llantas,Mantenimiento Mina,Auxiliar
+MLC001,988H,CATERPILLAR,Manipulador de Cables,Operaciones Mina,Auxiliar
+MN101,24M,CATERPILLAR,Motoniveladora,Operaciones Mina,Auxiliar
+MN102,24M,CATERPILLAR,Motoniveladora,Operaciones Mina,Auxiliar
+MN103,24M,CATERPILLAR,Motoniveladora,Operaciones Mina,Auxiliar
+MN104,24M,CATERPILLAR,Motoniveladora,Operaciones Mina,Auxiliar
+MN105,24,CATERPILLAR,Motoniveladora,Operaciones Mina,Auxiliar
+MN201,16M,CATERPILLAR,Motoniveladora,Operaciones Mina,Auxiliar
+MN301,140M,CATERPILLAR,Motoniveladora,Operaciones Cantera,Cantera
+MN302,140M,CATERPILLAR,Motoniveladora,Operaciones Cantera,Cantera
+PD101,PV351,EPIROC,Perforadora,Operaciones Mina,Perforación
+PD102,PV351,EPIROC,Perforadora,Operaciones Mina,Perforación
+PD103,PV351,EPIROC,Perforadora,Operaciones Mina,Perforación
+PD201,ROC L8,EPIROC,Perforadora,Operaciones Mina,Perforación
+PD301,DM45,EPIROC,Perforadora,Operaciones Mina,Perforación
+PD302,DM45,EPIROC,Perforadora,Operaciones Mina,Perforación
+PD401,MD6640,CATERPILLAR,Perforadora,Operaciones Mina,Perforación
+PD402,MD6640,CATERPILLAR,Perforadora,Operaciones Mina,Perforación
+PL001,7495,CATERPILLAR,Pala,Operaciones Mina,Carguío
+PL002,7495,CATERPILLAR,Pala,Operaciones Mina,Carguío
+PL003,7495,CATERPILLAR,Pala,Operaciones Mina,Carguío
+RD001,CS76,CATERPILLAR,Rodillo,Operaciones Mina,Auxiliar
+RD002,CS76,CATERPILLAR,Rodillo,Operaciones Cantera,Cantera
+RD003,CS76,CATERPILLAR,Rodillo,Operaciones Cantera,Cantera
+RD101,CS56,CATERPILLAR,Rodillo,Operaciones Mina,Auxiliar
+RE001,420F,CATERPILLAR,Retroexcavadora,Servicios Auxiliares Planta,Cantera
+RE101,WB93R-5E0,KOMATSU,Retroexcavadora,Operaciones Mina,Auxiliar
+TO001,D10T,CATERPILLAR,Tractor de Orugas,Operaciones Cantera,Cantera
+TO002,D10T,CATERPILLAR,Tractor de Orugas,Operaciones Mina,Auxiliar
+TO003,D10T,CATERPILLAR,Tractor de Orugas,Operaciones Cantera,Cantera
+TO004,D10T,CATERPILLAR,Tractor de Orugas,Operaciones Mina,Auxiliar
+TO005,D10T,CATERPILLAR,Tractor de Orugas,Scrap,Cantera
+TO006,D10T,CATERPILLAR,Tractor de Orugas,Operaciones Mina,Auxiliar
+TO007,D10T,CATERPILLAR,Tractor de Orugas,Servicios Auxiliares Planta,Cantera
+TO101,D11T,CATERPILLAR,Tractor de Orugas,Operaciones Mina,Auxiliar
+TO102,D11T,CATERPILLAR,Tractor de Orugas,Operaciones Mina,Auxiliar
+TO103,D11T,CATERPILLAR,Tractor de Orugas,Operaciones Mina,Auxiliar
+TO104,D11T,CATERPILLAR,Tractor de Orugas,Servicios Auxiliares Planta,Cantera
+TO201,D475A-5E0,KOMATSU,Tractor de Orugas,Operaciones Mina,Auxiliar
+TO202,D475A-5E0,KOMATSU,Tractor de Orugas,Operaciones Mina,Auxiliar
+TR001,854K,CATERPILLAR,Tractor de Ruedas,Operaciones Mina,Auxiliar
+TR002,854K,CATERPILLAR,Tractor de Ruedas,Operaciones Mina,Auxiliar
+TR003,854K,CATERPILLAR,Tractor de Ruedas,Operaciones Mina,Auxiliar
+TR004,854K,CATERPILLAR,Tractor de Ruedas,Operaciones Mina,Auxiliar
+TR101,824H,CATERPILLAR,Tractor de Ruedas,Operaciones Cantera,Cantera
+TR201,WD900-3A,KOMATSU,Tractor de Ruedas,Operaciones Mina,Auxiliar
+TR202,WD900-3A,KOMATSU,Tractor de Ruedas,Operaciones Mina,Auxiliar
